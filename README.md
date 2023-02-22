@@ -1,5 +1,4 @@
-# Data-Analysis-with-Python
-PROJECT: Marketing Data Analysis
+# PROJECT: Marketing Data Analysis
 
 Domain: Marketing, Retail
 
