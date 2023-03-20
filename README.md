@@ -1,4 +1,4 @@
-# PROJECT: Marketing Data Analysis
+# PROJECT: Retail Marketing EDA and Data Preprocessing
 
 Domain: Marketing, Retail
 
